@@ -29,7 +29,7 @@ Recently a set of mono and multi-physics toolboxes have been developed to facili
 
 ### 👯 Always looking for collaborations !
 
-If you are interested in our Open Source project [feelpp](https://github.com/feelpp/feelpp) or one of the projects we are working on at [Cemosis](https://www.cemosis.fr/projects) or if you have a collaboration to propose, don't hesitate to contact by [email](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=christophe.prudhomme@cemosis.fr), via [Twitter](https://twitter.com/prudhomm) or [LinkedIn](https://www.linkedin.com/in/christopheprudhomme/).
+If you are interested in our Open Source project [feelpp](https://github.com/feelpp/feelpp) or one of the projects we are working on at [Cemosis](https://www.cemosis.fr/projects) or if you have a collaboration to propose, don't hesitate to contact me by [email](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=christophe.prudhomme@cemosis.fr), via [Twitter](https://twitter.com/prudhomm) or [LinkedIn](https://www.linkedin.com/in/christopheprudhomme/).
 
 
 
