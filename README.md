@@ -3,7 +3,7 @@
 I am a Professor in Applied Mathematics at the University of Strasbourg in France. 
 I’m passionate about mathematics and their endless applications in industry, sciences in particular health and environmental sciences. 
 
-### A little bit of myself
+### A little bit about me 😄
 
 I got my Ph.D. at University Pierre and Marie Curie in Paris in 2000.
 Then I spent 3 years at MIT in Mech. Eng. Dept. working on reduced basis output bounds methods.
